@@ -24,8 +24,7 @@
     "htmlparser": "1.7.x",
     "sprintf": "0.1.1",
     "hashlib": "1.0.1",
-    "wwwdude": "0.1.0",
-    "twitter-node": "0.0.2"
+    "wwwdude": "0.1.0"
   },
 
   "directories":  {
